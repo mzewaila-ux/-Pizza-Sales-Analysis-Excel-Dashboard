@@ -1,12 +1,15 @@
-# 🍕 Pizza Sales Analysis — Excel Dashboard
+ 🍕 Pizza Sales Analysis — Excel Dashboard
 
 An interactive **Microsoft Excel dashboard** for analyzing pizza sales, order volumes, product categories, and purchasing patterns. Built with **Pivot Tables, Pivot Charts, and Slicers** to explore key performance indicators and compare sales across products and time periods.
 
-## 📊 Dashboard Preview
+## 📊 Dashboard Preview 
 
 ![Pizza Sales Dashboard](dashboard-preview.png)
 
 > Upload a screenshot of the dashboard to this repository as `dashboard-preview.png` to display it here.
+
+<img width="1133" height="494" alt="image" src="https://github.com/user-attachments/assets/095e72eb-85f8-498b-a8e6-7e472b290afb" />
+
 
 ## 🎯 Project Objectives
 
@@ -113,6 +116,10 @@ The dashboard includes slicers and filters for:
 - **Quarter / Timeline**
 
 **Important:** The displayed screenshot has the pizza-size slicer filtered to **S**, and the size distribution chart shows **S = 100%**. The KPI figures and comparisons shown may therefore represent a filtered view rather than the entire dataset.
+
+
+<img width="237" height="422" alt="image" src="https://github.com/user-attachments/assets/80d1d5b9-1569-4292-ac30-9d0802d203df" />
+
 
 ## 📂 Repository Structure
 
